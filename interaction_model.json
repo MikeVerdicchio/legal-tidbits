@@ -1,0 +1,30 @@
+{
+  "languageModel": {
+    "intents": [
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": []
+      },
+      {
+        "name": "GetFactIntent",
+        "samples": [
+          "tell me a law fact",
+          "give me a law fact",
+          "what is a law fact",
+          "tell me something",
+          "tell me something cool"
+        ],
+        "slots": []
+      }
+    ],
+    "invocationName": "legal tidbits"
+  }
+}
